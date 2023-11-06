@@ -15,7 +15,7 @@ let yes = 1;
 console.log(Boolean(yes))
 // output true
 
-let yes = 1; 
-console.log(Boolean(yes))
+let no = 0; 
+console.log(Boolean(no))
 // output true
 
