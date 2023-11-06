@@ -9,3 +9,13 @@
 let me = 'arnob'
 console.log(me)
 
+// Booleans///
+
+let yes = 1; 
+console.log(Boolean(yes))
+// output true
+
+let yes = 1; 
+console.log(Boolean(yes))
+// output true
+
